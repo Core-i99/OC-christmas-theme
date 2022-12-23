@@ -19,7 +19,7 @@ jobs:
         uses: actions/upload-artifact@v3
         with:
           name: Core-i99-christmas-theme
-          path: ./Build/Output/Core-i99-chrismas-theme.zip
+          path: ./Build/Output/Temp
 
       - name: Upload to Release
         if: github.event_name == 'release'
