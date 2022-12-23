@@ -23,6 +23,10 @@ A Christmas theme for OpenCore
     <string>Core-i99\Christmas</string>
     ```
 
+## Notes
+Clover already has a christmas theme for over a year, but OpenCore doesn't have one. So I decided to make one. I used the background image from CloverHackyColor's christmas theme and the Reset NVRAM icon from blackosx's OpenCanopyIcons. I based my icons from the Acidanthera GoldenGate icons from Acidanthera's OcBinaryData.
+This was the first time I used Photoshop, so it might not be perfect.
+
 ## Credits
 - [CloverHackyColor](https://github.com/CloverHackyColor) for the [background image](https://github.com/CloverHackyColor/CloverThemes/blob/master/christmas/background.png)
 - [Blackosx](https://github.com/blackosx) for [Reset NVRAM icon](https://github.com/blackosx/OpenCanopyIcons/blob/master/Set1/Tool/ResetNVRAM.icns)
