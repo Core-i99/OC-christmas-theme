@@ -1,0 +1,22 @@
+name: build
+
+on:
+  workflow_dispatch:
+  release:
+    types: [published]
+
+jobs:
+  build-image:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Run build script
+        run: sudo python3 ./Build/Build.py
+
+      - name: Upload to Artifacts
+        uses: actions/upload-artifact@v3
+        with:
+          name: Core-i99-christmas-theme
+          path: ./Build/Output/Core-i99-chrismas-theme.zip
