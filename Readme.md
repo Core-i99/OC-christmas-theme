@@ -26,3 +26,4 @@ A Christmas theme for OpenCore
 ## Credits
 - [CloverHackyColor](https://github.com/CloverHackyColor) for the [background image](https://github.com/CloverHackyColor/CloverThemes/blob/master/christmas/background.png)
 - [Blackosx](https://github.com/blackosx) for [Reset NVRAM icon](https://github.com/blackosx/OpenCanopyIcons/blob/master/Set1/Tool/ResetNVRAM.icns)
+- [Acidanthera](https://github.com/acidanthera) for [Acidanthera GoldenGate icons](https://github.com/acidanthera/OcBinaryData/tree/master/Resources/Image/Acidanthera/GoldenGate)
