@@ -1,5 +1,6 @@
 # OC Christmas Theme
 A Christmas theme for OpenCore
+
 <img src="Preview/Preview1.png">
 <img src="Preview/Preview2.png">
 
